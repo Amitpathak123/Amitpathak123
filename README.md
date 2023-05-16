@@ -23,7 +23,7 @@
 ---
 
 ### :woman_technologist: About Me :
-"I am a Front-End Professional with expertise in UI/UX design and proactive problem-solving skills. I have hands-on experience in executing projects and validating techniques to drive business growth and development. I am seeking a position where I can utilize my skills, adapt to the working environment, quickly learn new technical skills, and contribute to the organization's growth.".<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+"Hello everyone ! my name is Amit i am a Front-End Developer Professional with expertise in UI/UX design and proactive problem-solving skills. I have hands-on experience in executing projects and validating techniques to drive business growth and development. I am seeking a position where I can utilize my skills, adapt to the working environment, quickly learn new technical skills, and contribute to the organization's growth.".<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - :telescope: I’m working on various end-to-end projects and contributing to community via github.
 
@@ -55,9 +55,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="sqlalchemy" **alt="sqlalchemy" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="azure" **alt="azure" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="anaconda" **alt="anaconda" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="fastapi" **alt="fastapi" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite" **alt="sqlite" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/#" title="seaborn" **alt="seaborn" width="40" height="40"/>
+  
+  
+ 
 </div>
 
 
